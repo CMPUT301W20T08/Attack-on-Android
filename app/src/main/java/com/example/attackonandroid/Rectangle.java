@@ -1,4 +1,4 @@
 package com.example.attackonandroid;
 
-public class Circle extends Shape {
+public class Rectangle extends Shape{
 }
