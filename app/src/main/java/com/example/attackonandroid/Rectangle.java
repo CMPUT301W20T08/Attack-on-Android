@@ -1,5 +1,4 @@
 package com.example.attackonandroid;
 
-public class Oval extends  Shape {
-
+public class Rectangle extends Shape{
 }
