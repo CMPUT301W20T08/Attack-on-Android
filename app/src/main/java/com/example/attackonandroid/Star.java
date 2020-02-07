@@ -1,4 +1,4 @@
 package com.example.attackonandroid;
 
-public class Diamond extends Shape {
+public class Star extends Shape {
 }
